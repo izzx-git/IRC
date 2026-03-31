@@ -12,7 +12,7 @@ https://github.com/nihirash/zxuno-irc
  * `/s #channel` or `!s user` - установить текущий поток или пользователя
  * `/m user - послать сообщение пользователю user
 
-Краткий список команд ля IRC протокола:
+Краткий список команд для IRC протокола:
 JOIN, PART, QUIT, NICK, PRIVMSG, NOTICE, TOPIC, MODE, KICK, WHO, WHOIS, LIST, NAMES
 
 /list список каналов
