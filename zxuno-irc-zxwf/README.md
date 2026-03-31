@@ -4,6 +4,8 @@ This is a modification of a simple IRC client for the ZX Spectrum. It's been ada
 Оригинал тут:
 https://github.com/nihirash/zxuno-irc
 
+Раскладка клавиатуры не переключается, только английские буквы...
+
 Управляющий символ '/' (shift+V), а не '!', как было
  * `/j #channel` - присоединиться (join) к каналу. Можно создать свой канал.
  * `/l` - покинуть (leave) канал
